@@ -1,6 +1,6 @@
 # wavelet_transform
 
-ch15 wavelet transform
+## ch15 wavelet transform
 
 filter bank, lpf, hpf, LL, LH, HL, HH
 

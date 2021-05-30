@@ -8,6 +8,6 @@ convolution filtering, encoding, decoding, down sampling, up sampling
 
 scaling, shifting
 
-high frequency - time resolution(resolving power), small scaling
+high frequency domain - time resolution(resolving power), small scaling
 
-low frequency - frquency resolution(resolving power), large scaling
+low frequency domain - frquency resolution(resolving power), large scaling

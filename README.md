@@ -1,4 +1,4 @@
-# wavelet_transform
+# wavelet transform
 
 ## ch15 wavelet transform
 

@@ -6,7 +6,7 @@ filter bank, lpf, hpf, LL, LH, HL, HH
 
 convolution filtering, encoding, decoding, down sampling, up sampling
 
-scaling, shifting
+stft(short time fourier transform), scaling, shifting
 
 high frequency domain - time resolution(resolving power), small scaling
 
